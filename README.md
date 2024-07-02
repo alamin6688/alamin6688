@@ -1,6 +1,6 @@
 ![logo](./Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm MD. SAIF ISLAM</h1>
+<h1 align="center">Hi 👋, I'm Fuade Hasan Alamin</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <hr>
@@ -8,7 +8,7 @@
 <div align="center">
   <img align="right" alt="coading" width="350" src="./coading.gif">
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" />
+    <img src="https://komarev.com/ghpvc/?username=alamin6688&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" />
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
