@@ -12,7 +12,7 @@
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a target="_blank" href="https://rococo-marigold-b6b9db.netlify.app">Tech Blze</a></li>
+    <li>🔭 I’m working in - <a target="_blank" href="https://stalwart-bonbon-289a21.netlify.app">Tech Gadgets</a></li>
     <li>🌱 I’m learning - <strong>Next.js</strong></li>
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
