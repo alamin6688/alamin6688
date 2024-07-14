@@ -8,11 +8,11 @@
 <div align="center">
   <img align="right" alt="coading" width="350" src="./coading.gif">
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=alamin6688&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" />
+    <img src="https://komarev.com/ghpvc/?username=alamin6688&label=Profile%20views&color=0e75b6&style=flat" alt="alamin6688" />
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a target="_blank" href="https://stalwart-bonbon-289a21.netlify.app">Tech Gadgets</a></li>
+    <li>🔭 I’m working in - <a href="https://elegant-concha-76b0a5.netlify.app" target="_blank">Nexus Travel</a></li>
     <li>🌱 I’m learning - <strong>Next.js</strong></li>
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
