@@ -17,7 +17,7 @@
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
     <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
-    <li>📄 My resume - <a target="_blank" href="#">Click here</a></li>
+    <li>📄 My resume - <a target="_blank" href="https://drive.google.com/file/d/1_gKZpE8fZcLqgN0ZwNb56RkCyw-C8N-p/view?usp=sharing">Click here</a></li>
     <li>🌐 My protfolio - <a href="https://dev-alamin-portfolio.netlify.app" target="_blank">Developer Alamin</a></li>
   </ul>
 </div>
