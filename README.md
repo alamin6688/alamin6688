@@ -18,7 +18,7 @@
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
     <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
     <li>📄 My resume - <a target="_blank" href="#">Click here</a></li>
-    <li>🌐 My protfolio - <a href="#" target="_blank">Developer Alamin</a></li>
+    <li>🌐 My protfolio - <a href="https://dev-alamin-portfolio.netlify.app" target="_blank">Developer Alamin</a></li>
   </ul>
 </div>
 
