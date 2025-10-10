@@ -12,13 +12,13 @@
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a href="https://job-wave.netlify.app" target="_blank">Job Wave</a></li>
+    <li>🔭 I’m working in - <a href="parcel-delivery-system" target="_blank">Parcel Delivery System</a></li>
     <li>🌱 I’m learning - <strong>Next.js</strong></li>
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
     <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
     <li>📄 My resume - <a target="_blank" href="https://drive.google.com/file/d/1_gKZpE8fZcLqgN0ZwNb56RkCyw-C8N-p/view?usp=sharing">Click here</a></li>
-    <li>🌐 My protfolio - <a href="https://dev-alamin-portfolio.netlify.app" target="_blank">Developer Alamin</a></li>
+    <li>🌐 My protfolio - <a href="https://alamin-portfolio-rouge.vercel.app" target="_blank">Developer Alamin</a></li>
   </ul>
 </div>
 
