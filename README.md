@@ -1,7 +1,7 @@
 ![logo](./Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Fuade Hasan Alamin</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h5 align="center">I’m a Full-Stack Developer. I'm focused on building clean, scalable and user-centric web applications. I enjoy turning real-world problems into well-designed software using modern JavaScript technologies. Currently working on production-ready projects and actively collaborating on open-source initiatives.</h5>
 
 <hr>
 
