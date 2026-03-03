@@ -1,7 +1,7 @@
 ![logo](./Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Fuade Hasan Alamin</h1>
-<h4 align="center">I’m a Full-Stack Developer. I'm focused on building clean, scalable and user-centric web applications. I enjoy turning real-world problems into well-designed software using modern JavaScript technologies. Currently working on production-ready projects and actively collaborating on open-source initiatives.</h4>
+<h4 align="center">I’m a Full-Stack Developer. I'm focused on building clean, scalable and user-centric web applications. I enjoy turning real-world problems into well-designed software using AI and modern technologies. Currently working on production-ready projects and actively collaborating on open-source initiatives.</h4>
 
 <hr>
 
@@ -12,8 +12,8 @@
   </p>
   <h3 align="left">🚀 Current Overview 🚀</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a href="parcel-delivery-system" target="_blank">Parcel Delivery System</a></li>
-    <li>🌱 I’m learning - <strong>Next.js</strong></li>
+    <li>🔭 I’m working in - <a href="web-socket" target="_blank">Web Socket</a></li>
+    <li>🌱 I’m learning - <strong>Socket.io</strong></li>
     <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
     <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
     <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
