@@ -75,13 +75,13 @@
 
 <p align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin6688&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamin6688&theme=github_dark"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin6688&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamin6688&theme=github_dark&utcOffset=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamin6688&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamin6688&theme=github_dark&utcOffset=8"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamin6688&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamin6688&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamin6688&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamin6688&theme=github_dark"/>
 
 </p>
 
